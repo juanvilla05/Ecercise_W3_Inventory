@@ -1,6 +1,6 @@
 ![image_Alt](https://github.com/juanvilla05/Ecercise_W3_Inventory/blob/2aac04b11fa4ccc804dab7a555324b7199a78e4e/NA_SEP._29.jpg)
 # 📦 Store Inventory Management Program in Python 🐍
-
+To access the README in SPANISH, click the following link: [README](https://github.com/juanvilla05/Ecercise_W3_Inventory/blob/92f5b77c4297620ccdf5067790986c0dba8267d1/README.md)
 ## 🎯 Objective
 
 To develop a program in Python that allows for the efficient management of a store's product inventory, applying functions with parameters, lambda functions, and data structures such as lists, tuples, and dictionaries.
