@@ -1,6 +1,6 @@
 ![image_Alt](https://github.com/juanvilla05/Ecercise_W3_Inventory/blob/2aac04b11fa4ccc804dab7a555324b7199a78e4e/NA_SEP._29.jpg)
 # 📦 Programa de Gestión de Inventario de Tienda en Python 🐍
- Para acceder al README en INGLES, ingresa al siguiente link : [main](https://github.com/juanvilla05/Ecercise_W3_Inventory/blob/94a9af4474e673814fcc1ee8b379398db4692eb3/README_ENGLISH.md)
+ Para acceder al README en ENGLISH, ingresa al siguiente link : [README_ENGLISH](https://github.com/juanvilla05/Ecercise_W3_Inventory/blob/94a9af4474e673814fcc1ee8b379398db4692eb3/README_ENGLISH.md)
 ## 🎯 Objetivo
 
 Desarrollar un programa en Python que permita gestionar de manera eficiente el inventario de productos de una tienda, aplicando funciones con parámetros, funciones lambda, y estructuras de datos como listas, tuplas y diccionarios.
