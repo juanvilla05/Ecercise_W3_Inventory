@@ -1,3 +1,4 @@
+![image_Alt](https://github.com/juanvilla05/Ecercise_W3_Inventory/blob/2aac04b11fa4ccc804dab7a555324b7199a78e4e/NA_SEP._29.jpg)
 # 📦 Store Inventory Management Program in Python 🐍
 
 ## 🎯 Objective
